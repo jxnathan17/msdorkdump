@@ -11,9 +11,13 @@ MSDorkDump is a Google Dork File Finder that queries a specified domain name and
 The goal is to implement some custom tooling into a "MayorSec Toolkit" to be released sometime in the future.
 
 ## Usage
-Installing MSDorkDump
+Installing MSDorkDump - Original Version from The Mayor
 
 ```git clone https://github.com/dievus/msdorkdump.git```
+
+Installing modified version
+
+```git clone https://github.com/jxnathan17/msdorkdump.git```
 
 Change directories to msdorkdump and run:
 
